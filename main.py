@@ -13,8 +13,8 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-    print('Hi, I am main and test1.0.1.')
-    # have combine main and test1.0.1
+    print('Hi, I am test_new0.')
+
     
     
 
