@@ -14,6 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
     print('Hi, I am main and test1.0.1.')
+    print('Hi, It is me again! I am test1.1.2')
     # have combine main and test1.0.1####
     
     
